@@ -76,7 +76,7 @@ Here are some of the cool projects I’ve been working on lately. Take a look! �
 Feel free to reach out if you want to collaborate, chat about data, or share some cool insights. 😄
 
 - ✉️ **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **LinkedIn**: [Mir's LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 🌐 **LinkedIn**: [Mir's LinkedIn](https://www.linkedin.com/in/mir-alam-mbcs-a0728b16b)
 - 🐦 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
 
 ---
