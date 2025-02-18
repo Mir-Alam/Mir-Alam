@@ -17,27 +17,28 @@ Here are the tools I’m currently working with — and I’m having a blast! �
 
 #### **Excel** 🧑‍💼
 The classic! Using pivot tables, VLOOKUPs, and creating visualizations to uncover insights.
-![Excel](https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Excel_Logo_2013.svg)
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
 
 #### **Tableau** 📊
 Building **dynamic dashboards** and creating stunning visualizations to make data come alive.
-![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tableau_Logo_2019.svg/2560px-Tableau_Logo_2019.svg.png)
+<img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 
 #### **Power BI** 📈
 Bringing together data and creating powerful, interactive reports for data-driven decisions.
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/e/e3/Power_BI_Logo.svg)
+<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 
 #### **MySQL** 🔍
 Querying databases, joining tables, and exploring data with SQL queries.
-![MySQL](https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.png)
+<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
 
 #### **Azure** ☁️
 Leveraging **Microsoft Azure** for cloud services, data storage, and working with data pipelines.
-![Azure](https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Azure_Logo.svg)
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
 
 #### **Python** 🐍
 From data cleaning to advanced machine learning, Python’s my go-to tool! Pandas, NumPy, Matplotlib, and more.
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+<a href="#"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
+ 
 
 ---
 
