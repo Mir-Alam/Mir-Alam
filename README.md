@@ -47,7 +47,7 @@ From data cleaning to advanced machine learning, Python’s my go-to tool! Panda
 - 💻 **SQL Optimization** and writing advanced queries in MySQL
 - ☁️ **Azure Data Services**: Learning how to work with data pipelines, storage, and cloud-based analytics tools.
 - 🐍 **Python**: Exploring **Data Science** libraries like Pandas, Matplotlib, and Seaborn for data visualization.
-- 📊 **Machine Learning**: Getting my hands dirty with ML algorithms and models.
+
 
 ---
 
@@ -75,9 +75,9 @@ Here are some of the cool projects I’ve been working on lately. Take a look! �
 
 Feel free to reach out if you want to collaborate, chat about data, or share some cool insights. 😄
 
-- ✉️ **Email**: [your-email@example.com](mailto:your-email@example.com)
+- ✉️ **Email**: [4everrash@gmail.com](mailto:4everrash@gmail.com)
 - 🌐 **LinkedIn**: [Mir's LinkedIn](https://www.linkedin.com/in/mir-alam-mbcs-a0728b16b)
-- 🐦 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
+- 🐦 **Tableau**: [[@Tableau public](https://public.tableau.com/app/profile/mir.alam1681/vizzes)
 
 ---
 
